@@ -1,0 +1,85 @@
+body{
+    background-size: cover;
+    background-image: url(background.jpg);
+    font-family: font-family 'Dosis', sans-serif;
+}
+
+
+.logo{
+   border-radius: 15px;
+   margin-top: 50px ;
+   background: #00000060;
+   width: 840px;
+   height: auto;
+   margin-left: 350px;
+
+}
+
+.LIM{
+    width: 250px;
+    height: 100px;
+    margin-left: 300px;
+}
+
+.Testata{
+    color: lime;
+    text-align: center;
+}
+
+nav{
+    background-color: lime;
+    padding: 10px;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+    
+}
+
+h2{
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-bottom: 2px;
+
+}
+
+h3{
+     margin-left: 70px;
+     margin-top: 20px;
+     margin-bottom: 2px;
+}
+
+h4{
+    margin-bottom: 2px;
+    margin-left: 70px;
+}
+
+.statocaricagino{
+    background-color: orange;
+    border-radius: 10px;
+    margin-right: 450px;
+    height: 40px;
+    margin-top: auto;
+    margin-left: 70px;
+}
+
+.monopattini{
+    color: white;
+}
+
+.statocaricamike{
+    background-color: limegreen;
+    border-radius: 10px;
+    margin-right: 100px;
+    height: 40px;
+    margin-top: auto;
+    margin-left: 70px;
+}
+.statocarikafede{
+    background-color: red;
+    border-radius: 10px;
+    margin-right: 700px;
+    height: 40px;
+    margin-top: auto;
+    margin-left: 70px;
+}
